@@ -316,16 +316,23 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* position: relative; */
+    position: relative;
 }
+
 .discount-image-1 {
-    /* position: absolute; */
+    position: absolute;
+    left: 50px;
+    bottom: 10px;
 
 }
+
 .discount-image-2 {
-    /* position: absolute; */
+    position: absolute;
+    top: 50px;
+    right: 250px;
 
 }
+
 /* Portfolio area style sheet */
 .portfolio-content {
     text-align: left;
@@ -410,6 +417,11 @@
     font-size: 17px;
     font-weight: 600;
     margin-left: -5px;
+}
+.newsletter-form input[type="submit"]:hover {
+    background: #FFF;
+    color: #F00;
+    border-left: 1px solid blue;
 }
 
 /* footer area style sheet */
