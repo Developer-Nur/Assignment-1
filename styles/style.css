@@ -300,42 +300,32 @@
     line-height: 32px;
 }
 
-.holidays-contect-image {
-    height: ;
+.holidays-content-image {
+    height: 546px;
     display: flex;
     justify-content: space-around;
     gap: 0;
     margin-top: 53px;
     background-image: url('../Images/Rectangle\ 2.png'), url('../Images/Rectangle\ 1.png');
+    background-size: 1320px 189px, 353px 357px;
     background-repeat: no-repeat;
     background-position: bottom right, top right;
 }
 
-.holidays-contect-img-left,
-.holidays-contect-img-right {
-    width: 40%;
+.holidays-content-image {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* position: relative; */
 }
+.discount-image-1 {
+    /* position: absolute; */
 
-.holidays-contect-img-left img,
-.holidays-contect-img-right img {
-    width: 100%;
 }
+.discount-image-2 {
+    /* position: absolute; */
 
-/* style cont done yet */
-/* style cont done yet */
-/* style cont done yet */
-/* style cont done yet */
-/* style cont done yet */
-/* style cont done yet */
-
-
-
-
-
-
-
-
-
+}
 /* Portfolio area style sheet */
 .portfolio-content {
     text-align: left;
