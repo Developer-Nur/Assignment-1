@@ -271,3 +271,98 @@
     margin: 36px 0 0;
     text-align: left;
 }
+
+/* Holidays Sale style sheet */
+
+.holidays-sale * {
+    margin-bottom: 23px;
+}
+
+.holidays-sale h5 {
+    color: #070211;
+}
+
+.holidays-sale h4 {
+    font-size: 60px;
+}
+
+.holidays-sale h4 span {
+    color: #F00;
+    color: #F00;
+    font-family: 'Merriweather', serif;
+}
+
+.holidays-sale p {
+    width: 847px;
+    display: block;
+    margin: 0 auto;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.holidays-contect-image {
+    height: ;
+    display: flex;
+    justify-content: space-around;
+    gap: 0;
+    margin-top: 53px;
+    background-image: url('../Images/Rectangle\ 2.png'), url('../Images/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, top right;
+}
+
+.holidays-contect-img-left,
+.holidays-contect-img-right {
+    width: 40%;
+}
+
+.holidays-contect-img-left img,
+.holidays-contect-img-right img {
+    width: 100%;
+}
+
+/* style cont done yet */
+/* style cont done yet */
+/* style cont done yet */
+/* style cont done yet */
+/* style cont done yet */
+/* style cont done yet */
+
+
+
+
+
+
+
+
+
+/* Portfolio area style sheet */
+.portfolio-content {
+    text-align: left;
+    margin: 0 0 40px;
+}
+
+.portfolio-content * {
+    margin: 0 0 14px;
+}
+
+.portfolio-content p {
+    max-width: 740px;
+}
+
+.portfolio-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 17px;
+}
+
+.portfolio-gallery-img {
+    width: 424px;
+    height: 450px;
+
+}
+
+.portfolio-gallery-img img {
+    width: 100%;
+
+}
